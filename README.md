@@ -1,4 +1,4 @@
-# Sahil Chauhan - Aspiring Data Scientist and AI Enthusiast
+# Sahil Chauhan - Aspiring Web Developement and AI Enthusiast
 
 Welcome to my GitHub portfolio! I'm an aspiring data scientist and AI enthusiast with comprehensive skills in data analysis, machine learning, and full-stack web development. My passion lies in leveraging data-driven insights and AI technologies to create innovative solutions that can make a difference.
 
