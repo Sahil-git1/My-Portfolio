@@ -5,8 +5,7 @@ Welcome to my GitHub portfolio! I'm an aspiring data scientist and AI enthusiast
 ## Contact Information
 
 - **Name**: Sahil Chauhan
-- **Location**: Himachal Pradesh, India, 175028
-- **Phone**: +91 8278794026
+- **Location**: Himachal Pradesh, India
 - **Email**: [sahilchauhan.p24@gmail.com](mailto:sahilchauhan.p24@gmail.com)
 - **Portfolio**: [My Portfolio](https://sahil-git1.github.io/My-Portfolio/)
 
