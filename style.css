@@ -153,11 +153,11 @@ padding-bottom: 2%;
     border-radius: 50%;
     margin-left: 5px;
   }
-.projects a:link,
-a:visited,
-a:hover,
-a:active,
-a:focus {
+  .projects a:link,
+  .projects a:visited,
+  .projects a:hover,
+  .projects a:active,
+  .projects a:focus {
   color: #461780;
   text-decoration: none;
 }
