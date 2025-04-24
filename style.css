@@ -623,3 +623,93 @@ font-size: 1em;
 
 
 /* ----------------------------------About Me--------------------------   */
+.about--me{
+    height: 80vh;
+    width: 100%;
+     background-color:#ffd6ff;   /* #ffd6ff; #f5f5f5; #d1b3ff;  #f3e8ff; */
+   color:  #461780;
+    margin-top:2% ;
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr 1fr;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 5%;
+    padding-top: 6%;
+}
+.about--me div:first-child{
+    font-size: 3em;
+}
+
+.about--me div:last-child p:first-child{
+font-size: 1.125rem;
+font-weight: 400;
+}
+.about--me div:last-child p:last-child{
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-top: 4%;
+    font-size: 1.3rem;
+    padding-right: 20%;
+/* font-weight: 600; */
+    }
+    .animate-on-scroll {
+        opacity: 0;
+        /* transform: translateY(40px); */
+        transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+      }
+      
+      .animate-on-scroll.animate {
+        opacity: 1;
+        /* transform: translateY(0); */
+      }    
+
+/* -----------------------------------Experience------------------------------------- */
+.experience{
+    /* margin-top: 2%; */
+    height: 150vh;
+    width: 100%;
+    padding: 8%;
+    color:  #461780;
+}
+
+.expOne div:first-child p:first-child{
+font-weight: 600;
+font-size: 3.4rem;
+}
+.expOne div:first-child p:last-child{
+    padding-top: 2.6%;
+    font-size: 1.2rem;
+    }
+.expOne {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      height: 30%;
+      padding-top: 3.5%;
+      margin-top: 3%;
+    }
+    .expOne div:first-child {
+        width: 50%;
+    }
+    .expOne div:last-child{
+        width: 50%;
+      height: 100%;
+    }
+    .expOne div:last-child p:first-child{
+        padding-top: 1%;
+        font-size: 1.6rem;
+        font-weight: 600;
+    }  
+    .expOne div:last-child p:last-child{
+        padding-top: 7%;
+        font-size: 1rem;
+        padding-right: 5%;
+        word-spacing: 1px;
+        line-height: 1.6;
+    }  
+   
+
+
+
+    

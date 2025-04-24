@@ -31,6 +31,7 @@ const elementsToAnimate = [
 
     document.querySelector(' .footer__h h1'),
     document.querySelector('.footer__info'), 
+    ...document.querySelectorAll('.animate-on-scroll')
   ];
 
 
