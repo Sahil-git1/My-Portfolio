@@ -568,6 +568,7 @@ font-size: 1em;
 
 
 .project img,
+.expOne div:last-child p,
 .footer__h h1,
 .footer__info,
 .project__right p:first-child,
@@ -593,6 +594,7 @@ font-size: 1em;
 }
 
 .project img.animate,
+.expOne div:last-child p.animate,
 .footer__h h1.animate,
 .footer__info.animate,
 .project__right p:first-child.animate,
@@ -709,7 +711,9 @@ font-size: 3.4rem;
         line-height: 1.6;
     }  
    
-
+.border1{
+    border-top: 1px solid #461780;
+}
 
 
     
